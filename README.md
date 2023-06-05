@@ -1,5 +1,4 @@
-- 👋 Hi, I’m SEGZ
-- 🌱 I’m currently learning ...
+Welcome to my GitHub profile page 
 
 <!---
 s-graiff/s-graiff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
